@@ -1,1 +1,1 @@
-Proyecto: copiar la web de google.com en html
+Proyecto: copiar la web de google.com en html solo el frontend, sin funciones.
