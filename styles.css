@@ -125,7 +125,7 @@ li{
     transform: translate(855%,-145%);
     border: none;
     background: transparent;
-    background-image: url(/images/googlemic.png);
+    background-image: url(./images/googlemic.png);
     background-repeat: no-repeat;
     background-size: contain;
     cursor: pointer;
@@ -133,7 +133,7 @@ li{
 }
 
 #maglogo{
-    background-image: url(/images/pngegg.png);
+    background-image: url(./images/pngegg.png);
     width: 20px;
     height: 20px;
     display: block;
