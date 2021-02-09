@@ -1,1 +1,4 @@
-Proyecto: copiar la web de google.com en html solo el frontend, sin funciones.
+Google page project (spanish Version).
+
+Feel free to use this code.
+Feel free to correct it if you want (Im a newbie, be nice)
